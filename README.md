@@ -31,17 +31,5 @@ It allows users to add, update, delete, and view student details.
 ## 🌍 Live Demo  
 🔗 [Live URL]http://localhost:63342/student-management/static/index.html?_ijt=6lbgvltgs8paas222acptc0iul&_ij_reload=RELOAD_ON_SAVE
 
----
 
-## 📂 Project Structure  
-
-student-management
-│── src/main/java
-│── controller
-│── service
-│── repository
-│── model
-│── src/main/resources
-│── application.properties
-│── pom.xml
 
