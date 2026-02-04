@@ -29,6 +29,7 @@ It allows users to add, update, delete, and view student details.
 
 ---
 ## 🌍 Live Demo  
+🔗 [Open App](http://localhost:63342/student-management/static/index.html?_ijt=hn08qlo2adi17drm35asskkh2g&_ij_reload=RELOAD_ON_SAVE)
 🔗 [Live URL] (http://localhost:63342/student-management/static/index.html?_ijt=hn08qlo2adi17drm35asskkh2g&_ij_reload=RELOAD_ON_SAVE)
 
 ---
